@@ -1,0 +1,95 @@
+h1 {
+    color: rgb(255, 208, 0);
+    text-align: center;
+    font-size: 25px;
+}
+
+.k1 {
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
+
+.k2 {
+    color: rgb(41, 224, 41);
+}
+
+.k3 {
+    text-align: center;
+}
+
+th {
+    color: white;
+    background-color: rgb(10, 0, 48);
+}
+
+tr,
+th,
+td,
+table {
+    border: 0.1px solid yellow;
+    border-collapse: collapse;
+    text-align: center;
+
+}
+
+td {
+    color: white;
+   background-color: rgb(37, 31, 63);
+   opacity: 0.8;
+
+}
+
+.td {
+height: 30px;
+font-size: 13px;
+}
+
+
+.td2 {
+    height: 30px;
+    font-size: 13px;
+}
+
+.td3 {
+    height: 30px;
+    font-size: 13px;
+}
+
+.th1 {
+    width: 260px;
+    height: 30px;
+    font-size: 13px;
+}
+
+.th2 {
+    width: 480px;
+    height: 30px;
+    font-size: 13px;
+}
+
+.th3 {
+    width: 440px;
+    font-size: 13px;
+}
+
+table {
+    margin: auto;
+}
+input{
+    border-radius: 5px;
+    width: 1300px;
+    height: 27px;
+}
+.pp{
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
+button{
+    background-color: yellow;
+    width: 320px;
+    height: 30px;
+    border-radius: 35px;
+    font-size: 20px;
+}
